@@ -1,0 +1,7 @@
+c:\users\user\source\repos\BasicLessons\BasicLessons\bin\Debug\BasicLessons.exe.config
+c:\users\user\source\repos\BasicLessons\BasicLessons\bin\Debug\BasicLessons.exe
+c:\users\user\source\repos\BasicLessons\BasicLessons\bin\Debug\BasicLessons.pdb
+c:\users\user\source\repos\BasicLessons\BasicLessons\obj\Debug\BasicLessons.csprojAssemblyReference.cache
+c:\users\user\source\repos\BasicLessons\BasicLessons\obj\Debug\BasicLessons.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\BasicLessons\BasicLessons\obj\Debug\BasicLessons.exe
+c:\users\user\source\repos\BasicLessons\BasicLessons\obj\Debug\BasicLessons.pdb
